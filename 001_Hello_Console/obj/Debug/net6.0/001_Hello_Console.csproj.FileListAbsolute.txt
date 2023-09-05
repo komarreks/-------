@@ -1,0 +1,15 @@
+c:\Users\38379\YandexDisk\_АРХИВ\GB_C++\Проекты\001_Hello_Console\bin\Debug\net6.0\001_Hello_Console.exe
+c:\Users\38379\YandexDisk\_АРХИВ\GB_C++\Проекты\001_Hello_Console\bin\Debug\net6.0\001_Hello_Console.deps.json
+c:\Users\38379\YandexDisk\_АРХИВ\GB_C++\Проекты\001_Hello_Console\bin\Debug\net6.0\001_Hello_Console.runtimeconfig.json
+c:\Users\38379\YandexDisk\_АРХИВ\GB_C++\Проекты\001_Hello_Console\bin\Debug\net6.0\001_Hello_Console.dll
+c:\Users\38379\YandexDisk\_АРХИВ\GB_C++\Проекты\001_Hello_Console\bin\Debug\net6.0\001_Hello_Console.pdb
+c:\Users\38379\YandexDisk\_АРХИВ\GB_C++\Проекты\001_Hello_Console\obj\Debug\net6.0\001_Hello_Console.csproj.AssemblyReference.cache
+c:\Users\38379\YandexDisk\_АРХИВ\GB_C++\Проекты\001_Hello_Console\obj\Debug\net6.0\001_Hello_Console.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\38379\YandexDisk\_АРХИВ\GB_C++\Проекты\001_Hello_Console\obj\Debug\net6.0\001_Hello_Console.AssemblyInfoInputs.cache
+c:\Users\38379\YandexDisk\_АРХИВ\GB_C++\Проекты\001_Hello_Console\obj\Debug\net6.0\001_Hello_Console.AssemblyInfo.cs
+c:\Users\38379\YandexDisk\_АРХИВ\GB_C++\Проекты\001_Hello_Console\obj\Debug\net6.0\001_Hello_Console.csproj.CoreCompileInputs.cache
+c:\Users\38379\YandexDisk\_АРХИВ\GB_C++\Проекты\001_Hello_Console\obj\Debug\net6.0\001_Hello_Console.dll
+c:\Users\38379\YandexDisk\_АРХИВ\GB_C++\Проекты\001_Hello_Console\obj\Debug\net6.0\refint\001_Hello_Console.dll
+c:\Users\38379\YandexDisk\_АРХИВ\GB_C++\Проекты\001_Hello_Console\obj\Debug\net6.0\001_Hello_Console.pdb
+c:\Users\38379\YandexDisk\_АРХИВ\GB_C++\Проекты\001_Hello_Console\obj\Debug\net6.0\001_Hello_Console.genruntimeconfig.cache
+c:\Users\38379\YandexDisk\_АРХИВ\GB_C++\Проекты\001_Hello_Console\obj\Debug\net6.0\ref\001_Hello_Console.dll
